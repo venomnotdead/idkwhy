@@ -8,7 +8,7 @@ const Header=()=>{
                 Search
             </Link>
             <Link href='/dropdown' className='item'>Dropdown</Link>
-            <Link href='/trLinknslLinkte' className='item'>
+            <Link href='/translate' className='item'>
                 Translate
             </Link>
 
